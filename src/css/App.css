@@ -8,8 +8,8 @@ html{
   font-size: 62.5%;
 }
 :root{
-  --wrapper-bg:hsla(0, 47%, 88%, 0.884);
-  --main-bg:hsla(211, 79%, 91%, 0.959);
+  --wrapper-bg:hsla(218, 75%, 89%, 0.884);
+  --main-bg:hsla(215, 51%, 35%, 0.959);
   --text-color:black;
   --box-shadow-color:rgba(126, 123, 123, 0.973);
 }
