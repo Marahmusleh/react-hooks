@@ -25,7 +25,6 @@ const reducer = (state,action) =>{
             // make true is completed 
             todo.isCompleted=!action.payload.isCompleted;
           }
-          // after that return all the array
           return todo;
         }),
       }
